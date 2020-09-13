@@ -1,1 +1,1 @@
-**Directory for git projects.**
+**Directory for git projects. Github updated.**
